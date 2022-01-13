@@ -1,0 +1,10 @@
+00:54:16	 From  Sahas Innovapath : AsserEquals()
+00:55:21	 From  Sahas Innovapath : print("Hi");
+a=20;
+AssertEquals(a,20);
+print("Hello");
+00:58:38	 From  Sahas Innovapath : print("Hi");
+a=20;
+b=10
+AssertTrue(a=b);
+print("Hello");
